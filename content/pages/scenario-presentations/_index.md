@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Scenario Presentations
 uid: da65609a-7335-5da2-8859-600efecd8844
 ---

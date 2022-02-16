@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-601-introduction-to-environmental-policy-and-planning-fall-2016/a5da5395b3d5b1a5b5e82bc320a9d8ea_0ppkDQuiHkw.pdf
+file: /media/courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/a5da5395b3d5b1a5b5e82bc320a9d8ea_0ppkDQuiHkw.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: a5da5395-b3d5-b1a5-b5e8-2bc320a9d8ea
