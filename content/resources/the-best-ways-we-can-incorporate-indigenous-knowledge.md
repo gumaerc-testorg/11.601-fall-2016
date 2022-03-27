@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: The Best Ways We Can Incorporate Indigenous Knowledge
 uid: ddc3c6c1-6b94-7f25-20fe-72c9b3b6deed
 video_files:

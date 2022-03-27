@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Cost Benefit Analysis in Environmental Policy Making Cold Call
 uid: dd25754a-708d-57c7-08de-76b5863f79d8
 video_files:

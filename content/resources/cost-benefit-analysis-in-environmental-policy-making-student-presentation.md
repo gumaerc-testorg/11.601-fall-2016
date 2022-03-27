@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Cost Benefit Analysis in Environmental Policy Making Student Presentation
 uid: dbec2557-a5f6-dcb1-fe8c-a73bed286679
 video_files:
