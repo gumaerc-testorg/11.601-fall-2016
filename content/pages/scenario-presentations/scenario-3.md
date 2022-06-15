@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information about the third scenario presentation.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Scenario Presentations

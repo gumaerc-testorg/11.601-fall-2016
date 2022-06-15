@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/b651a7e6cb440fad223a76f2e98e2567_ZNTBAKAT_WQ.pdf
+file: /courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/b651a7e6cb440fad223a76f2e98e2567_ZNTBAKAT_WQ.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

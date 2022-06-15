@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains general information about the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +31,7 @@ Text
 
 _Environmental Problem-Solving_ (Susskind et. al, 2017, Anthem Press), a video-enhanced eBook, provides students with full access to all the assigned readings, faculty commentary on the readings, and examples of the best student performance on course assignments in previous years.
 
-![11_601f16_book.jpg](/courses/urban-studies-and-planning/11-601-introduction-to-environmental-policy-and-planning-fall-2016/syllabus/11_601f16_book.jpg)
+{{< resource "3d6a6204-2ad6-a054-889c-2d5bb18b5065" >}}
 
 (Image courtesy of Anthem Press and used with permission.)
 
