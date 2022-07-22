@@ -4,6 +4,7 @@ description: ''
 file: /courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/8249a25ab7823d0198b3770d22de03c9_A76FlzncnbU.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
