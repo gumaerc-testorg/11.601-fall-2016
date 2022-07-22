@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains information about scenario thirteen.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Scenario Presentations
+parent_type: CourseSection
 parent_uid: da65609a-7335-5da2-8859-600efecd8844
 title: Scenario 13
 uid: 4b832163-0d99-aad4-2f56-b1e7c51dbc31

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains information about the second negotiation scenario.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Scenario Presentations
+parent_type: CourseSection
 parent_uid: da65609a-7335-5da2-8859-600efecd8844
 title: Scenario 2
 uid: 75437490-1261-164e-4cb3-0b07531bbcd2

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains information about scenario six.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Scenario Presentations
+parent_type: CourseSection
 parent_uid: da65609a-7335-5da2-8859-600efecd8844
 title: Scenario 6
 uid: 68660703-4841-af90-09d2-5fbf81904426

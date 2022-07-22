@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains information about scenario four.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Scenario Presentations
+parent_type: CourseSection
 parent_uid: da65609a-7335-5da2-8859-600efecd8844
 title: Scenario 4
 uid: f3606f13-5a96-e2e6-52a0-7adad6bf61eb

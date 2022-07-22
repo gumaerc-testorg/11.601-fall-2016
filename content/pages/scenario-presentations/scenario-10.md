@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains information about scenario ten.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Scenario Presentations
+parent_type: CourseSection
 parent_uid: da65609a-7335-5da2-8859-600efecd8844
 title: Scenario 10
 uid: 0845977c-c7f6-281d-2c2f-ec3a8c06cc31

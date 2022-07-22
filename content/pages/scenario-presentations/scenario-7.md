@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains information about scenario 7.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Scenario Presentations
+parent_type: CourseSection
 parent_uid: da65609a-7335-5da2-8859-600efecd8844
 title: Scenario 7
 uid: e26e7a67-5c9a-5655-bf5b-e667b790b524
