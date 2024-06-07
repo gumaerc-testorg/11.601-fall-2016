@@ -300,7 +300,7 @@ _Scenario #10_
 15
 {{< tdclose >}}
 {{< tdopen >}}
-**{{% resource_link "b2fcb522-2f8b-4143-89b3-e4c278e23feb" "Humboldt Game Simulation Role Play" %}}**
+**[Humboldt Game Simulation Role Play](https://www.pon.harvard.edu/shop/humboldtmediating-a-regional-development-dispute/)**
 
 _Simulation reflection due tomorrow_
 
