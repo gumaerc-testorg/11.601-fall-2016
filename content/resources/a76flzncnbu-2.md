@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/a5086739675e570b98c20d9bdad09d9b_A76FlzncnbU.vtt
+file_size: 10362
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
