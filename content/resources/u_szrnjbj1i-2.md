@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/e294e0eae1db5d26ab8e3c3892110fab_U_sZrNjbj1I.vtt
+file: /ol-ocw-studio-app/courses/11-601-introduction-to-environmental-policy-and-planning-fall-2016/e294e0eae1db5d26ab8e3c3892110fab_U_sZrNjbj1I.vtt
 file_size: 10984
 file_type: application/x-subrip
 learning_resource_types: []
